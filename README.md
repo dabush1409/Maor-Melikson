@@ -1,2 +1,2 @@
 # Maor-Melikson
-a bootstrap only styling info page about Maor-melikson
+info page with a bootstrap only styling
